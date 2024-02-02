@@ -1,0 +1,3 @@
+# current time, NumCells_G0G1, NumCells_S, NumCells_G2, NumCells_M, NumCells_dead, SumVolume_G0G1, SumVolume_S, SumVolume_G2, SumVolume_M, SumVolume_dead, DNA damage quantiles live cells (Q1, Q2, Q3)
+0 108 128 56 14 7 269352 319232 139664 34916 17458 0 0 0
+60 119 111 56 13 29 267050 302667 155445 36209.2 35551.3 0 0 1.43723

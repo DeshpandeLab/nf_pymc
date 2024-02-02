@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with PhysiCell (http://PhysiCell.MathCancer.org/) -->
+<svg 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:cc="http://creativecommons.org/ns#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:svg="http://www.w3.org/2000/svg" 
+ xmlns="http://www.w3.org/2000/svg" 
+ version="1.1" 
+ width="1440" 
+ height="325" 
+ id="svg2">
+  <circle cx="32.5" cy="32.5" r="25" stroke-width="1" stroke="rgb(0,0,0)" fill="rgb(255,0,0)"/>
+  <circle cx="32.5" cy="32.5" r="12.5" stroke-width="1" stroke="rgb(125,0,0)" fill="rgb(0,0,0)"/>
+  <text x="72.5" y="45.25"
+   font-family="Arial" font-size="42.5" fill="black" >
+   apoptotic
+  </text>
+  <circle cx="32.5" cy="97.5" r="25" stroke-width="1" stroke="rgb(0,0,0)" fill="rgb(0,80,255)"/>
+  <circle cx="32.5" cy="97.5" r="12.5" stroke-width="1" stroke="rgb(0,40,255)" fill="rgb(0,0,0)"/>
+  <text x="72.5" y="110.25"
+   font-family="Arial" font-size="42.5" fill="black" >
+   phase G0/G1
+  </text>
+  <circle cx="32.5" cy="162.5" r="25" stroke-width="1" stroke="rgb(0,0,0)" fill="rgb(255, 0, 255)"/>
+  <circle cx="32.5" cy="162.5" r="12.5" stroke-width="1" stroke="rgb(190,0,190)" fill="rgb(0,0,0)"/>
+  <text x="72.5" y="175.25"
+   font-family="Arial" font-size="42.5" fill="black" >
+   phase S
+  </text>
+  <circle cx="32.5" cy="227.5" r="25" stroke-width="1" stroke="rgb(0,0,0)" fill="rgb(255, 255, 0)"/>
+  <circle cx="32.5" cy="227.5" r="12.5" stroke-width="1" stroke="rgb(190, 190, 0)" fill="rgb(0,0,0)"/>
+  <text x="72.5" y="240.25"
+   font-family="Arial" font-size="42.5" fill="black" >
+   phase G2
+  </text>
+  <circle cx="32.5" cy="292.5" r="25" stroke-width="1" stroke="rgb(0,0,0)" fill="rgb(0,255,0)"/>
+  <circle cx="32.5" cy="292.5" r="12.5" stroke-width="1" stroke="rgb(0,190,0)" fill="rgb(0,0,0)"/>
+  <text x="72.5" y="305.25"
+   font-family="Arial" font-size="42.5" fill="black" >
+   phase M
+  </text>
+</svg>
